@@ -1,1 +1,1 @@
-This repo is for code challenges set in the Mastery Curriculum learning guide provided through <makersacademy class="com"></makersacademy>
+This repo is for code challenges set in the Mastery Curriculum learning guide provided through makersacademy.com
